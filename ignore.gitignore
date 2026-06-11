@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+*.log
+logs/
+dist/, build/, out/
+*.o, *.pyc, *.class, *.jar
+node_modules/
+target/
+*.swp
+*.tmp, *.temp, *~
